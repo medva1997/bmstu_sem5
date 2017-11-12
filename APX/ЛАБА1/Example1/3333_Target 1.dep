@@ -1,0 +1,2 @@
+Dependencies for Project '3333', Target 'Target 1': (DO NOT MODIFY !)
+F (.\LPC2300.s)(0x51C7FF5E)(--cpu ARM7TDMI --pd "__EVAL SETA 1" -g --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Philips--list .\lpc2300.lst --xref -o .\lpc2300.o --depend .\lpc2300.d)

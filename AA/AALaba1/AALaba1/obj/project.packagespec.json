@@ -1,0 +1,33 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "D:\\AALaba1\\AALaba1\\AALaba1.csproj",
+    "projectName": "AALaba1",
+    "projectPath": "D:\\AALaba1\\AALaba1\\AALaba1.csproj",
+    "outputPath": "D:\\AALaba1\\AALaba1\\obj\\",
+    "projectStyle": "PackageReference",
+    "originalTargetFrameworks": [
+      "netcoreapp2.0"
+    ],
+    "frameworks": {
+      "netcoreapp2.0": {
+        "projectReferences": {}
+      }
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.0": {
+      "dependencies": {
+        "Microsoft.NETCore.App": {
+          "target": "Package",
+          "version": "2.0"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

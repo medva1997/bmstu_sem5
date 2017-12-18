@@ -1,0 +1,22 @@
+<ROOT> 
+<Manager>
+  <MID>126</MID>
+  <CompID>1</CompID>
+  <LastName>Gorohova</LastName>
+  <FirstName>Irina</FirstName>
+  <SecondName>Borisovna</SecondName>
+  <Email>ira@medalexey.ru</Email>
+  <Password>49D82B501375008EBD0CB9CBD3485E17</Password>
+  <PhoneNumber>79262300357</PhoneNumber>
+</Manager>
+<Manager>
+  <MID>127</MID>
+  <CompID>1</CompID>
+  <LastName>Orekhova</LastName>
+  <FirstName>Ekaterina</FirstName>
+  <SecondName>Olegovna</SecondName>
+  <Email>kate@medalexey.ru</Email>
+  <Password>49D72B501375008EBD0CB9CBD3485E17</Password>
+  <PhoneNumber>79262300356</PhoneNumber>
+</Manager>
+</ROOT>

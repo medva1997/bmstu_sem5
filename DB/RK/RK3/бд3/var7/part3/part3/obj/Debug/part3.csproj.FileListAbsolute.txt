@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\DB\Misha\module3\part3\part3\bin\Debug\part3.exe.config
+C:\Users\User\Desktop\DB\Misha\module3\part3\part3\obj\Debug\part3.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\DB\Misha\module3\part3\part3\bin\Debug\part3.exe
+C:\Users\User\Desktop\DB\Misha\module3\part3\part3\bin\Debug\part3.pdb
+C:\Users\User\Desktop\DB\Misha\module3\part3\part3\obj\Debug\part3.exe
+C:\Users\User\Desktop\DB\Misha\module3\part3\part3\obj\Debug\part3.pdb

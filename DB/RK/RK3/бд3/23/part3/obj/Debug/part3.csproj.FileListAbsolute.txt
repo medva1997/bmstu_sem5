@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\DB\Natan\module3\23\part3\bin\Debug\part3.exe.config
+C:\Users\User\Desktop\DB\Natan\module3\23\part3\bin\Debug\part3.exe
+C:\Users\User\Desktop\DB\Natan\module3\23\part3\bin\Debug\part3.pdb
+C:\Users\User\Desktop\DB\Natan\module3\23\part3\obj\Debug\part3.exe
+C:\Users\User\Desktop\DB\Natan\module3\23\part3\obj\Debug\part3.pdb

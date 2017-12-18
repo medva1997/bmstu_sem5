@@ -1,0 +1,15 @@
+<Meeting Meet_ID="4">				
+	<TimeStart>2017-11-02 12:15:00.000</TimeStart>
+	<TimeEnd>2017-11-02 18:00:00.000</TimeEnd>
+	<Location>Room 3</Location>
+	<Manager M_Confirmation="true" MID="36">
+		<LastName>Плохов</LastName>
+		<FirstName>Артур</FirstName>
+		<PhoneNumber>79261410734</PhoneNumber>
+	</Manager>
+	<Visitor V_Confirmation="true" MID="171">
+		<LastNamettttt>Неуков</LastNamettttt>
+		<FirstName>Аркадий</FirstName>
+		<PhoneNumber>79265038243</PhoneNumber>
+	</Visitor>
+</Meeting>

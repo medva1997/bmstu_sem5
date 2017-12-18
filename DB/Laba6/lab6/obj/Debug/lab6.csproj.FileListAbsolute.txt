@@ -1,0 +1,7 @@
+C:\Users\medva\Documents\REPOS\DB\lab6\lab6\bin\Debug\lab6.exe.config
+C:\Users\medva\Documents\REPOS\DB\lab6\lab6\bin\Debug\lab6.exe
+C:\Users\medva\Documents\REPOS\DB\lab6\lab6\bin\Debug\lab6.pdb
+C:\Users\medva\Documents\REPOS\DB\lab6\lab6\obj\Debug\lab6.csprojResolveAssemblyReference.cache
+C:\Users\medva\Documents\REPOS\DB\lab6\lab6\obj\Debug\lab6.csproj.CoreCompileInputs.cache
+C:\Users\medva\Documents\REPOS\DB\lab6\lab6\obj\Debug\lab6.exe
+C:\Users\medva\Documents\REPOS\DB\lab6\lab6\obj\Debug\lab6.pdb

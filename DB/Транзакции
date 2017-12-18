@@ -1,0 +1,76 @@
+Транзакции
+ACID
+	A -Атомарность
+	С- Консистентность
+	I-Изоляция
+	D-Долговечность
+
+Транзакции бывают
+			Автомачиские
+			Явные
+			Неявные
+
+5 автомаческих транзакций
+CREATE CREATE TABLE tab1 (
+  col int,
+  col int
+),
+  INSERT INTO  tab1 VALUES (1,1),
+  INSERT INTO  tab1 VALUES (2,2),
+  INSERT INTO  tab1 VALUES (4,3),
+  SELECT * FROM tab1;
+при ошибке синтаксиса не выполнится ничего
+При ошибке в типе выполнится до ошибки
+
+Чтобы включить режим с неявными транзакциями
+CREATE CREATE TABLE tab1 (
+  col int,
+  col int
+),
+  SET IMPLICIT_TRANSACTIONS ON 
+  INSERT INTO  tab1 VALUES (1,1),
+  INSERT INTO  tab1 VALUES (2,2),
+  INSERT INTO  tab1 VALUES (4,3),
+    COMMIT TRANSACTION;
+  SELECT * FROM tab1;
+    COMMIT TRANSACTION;
+  SET IMPLICIT_TRANSACTIONS  OFF 
+
+
+  Явные 
+
+CREATE CREATE TABLE tab1 (
+  col int,
+  col int
+),
+  BEGIN TRANSACTION
+  INSERT INTO  tab1 VALUES (1,1),
+  INSERT INTO  tab1 VALUES (2,2),
+  INSERT INTO  tab1 VALUES (4,3),
+   SAVE TRANSACTION
+ BEGIN TRANSACTION
+  SELECT * FROM tab1;
+ROLLBACK TRANSACTION 
+
+
+
+BEGIN TRY
+  
+END TRY
+BEGIN CATCH
+END CATCH
+
+Проблемы
+
+1) последовательное изменение
+2) грязное чтение
+3) не повторное чтение
+4) фантомное чтение
+
+
+уровень изоляции	2		3		4
+snapshot			-		-		-
+read uncommited		+		+		+
+read commited		-		+		+
+repeatable read		-		-		+
+serializable		-		-		-		

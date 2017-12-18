@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xs:element name="Meeting">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="TimeStart" type="xs:string" minOccurs="0" msdata:Ordinal="0" />
+        <xs:element name="TimeEnd" type="xs:string" minOccurs="0" msdata:Ordinal="1" />
+        <xs:element name="Location" type="xs:string" minOccurs="0" msdata:Ordinal="2" />
+        <xs:element name="Manager" minOccurs="0" maxOccurs="unbounded">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="LastName" type="xs:string" minOccurs="0" msdata:Ordinal="0" />
+              <xs:element name="FirstName" type="xs:string" minOccurs="0" msdata:Ordinal="1" />
+              <xs:element name="PhoneNumber" type="xs:string" minOccurs="0" msdata:Ordinal="2" />
+            </xs:sequence>
+            <xs:attribute name="M_Confirmation" type="xs:string" />
+            <xs:attribute name="MID" type="xs:string" />
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Visitor" minOccurs="0" maxOccurs="unbounded">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="LastName" type="xs:string" minOccurs="0" msdata:Ordinal="0" />
+              <xs:element name="FirstName" type="xs:string" minOccurs="0" msdata:Ordinal="1" />
+              <xs:element name="PhoneNumber" type="xs:string" minOccurs="0" msdata:Ordinal="2" />
+            </xs:sequence>
+            <xs:attribute name="V_Confirmation" type="xs:string" />
+            <xs:attribute name="MID" type="xs:string" />
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+      <xs:attribute name="Meet_ID" type="xs:string" />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element ref="Meeting" />
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

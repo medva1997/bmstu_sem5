@@ -1,0 +1,7 @@
+C:\Users\medva\source\repos\Medvedev_task1\Medvedev_task1\bin\Debug\Medvedev_task1.exe.config
+C:\Users\medva\source\repos\Medvedev_task1\Medvedev_task1\bin\Debug\Medvedev_task1.exe
+C:\Users\medva\source\repos\Medvedev_task1\Medvedev_task1\bin\Debug\Medvedev_task1.pdb
+C:\Users\medva\source\repos\Medvedev_task1\Medvedev_task1\obj\Debug\Medvedev_task1.csprojResolveAssemblyReference.cache
+C:\Users\medva\source\repos\Medvedev_task1\Medvedev_task1\obj\Debug\Medvedev_task1.csproj.CoreCompileInputs.cache
+C:\Users\medva\source\repos\Medvedev_task1\Medvedev_task1\obj\Debug\Medvedev_task1.exe
+C:\Users\medva\source\repos\Medvedev_task1\Medvedev_task1\obj\Debug\Medvedev_task1.pdb

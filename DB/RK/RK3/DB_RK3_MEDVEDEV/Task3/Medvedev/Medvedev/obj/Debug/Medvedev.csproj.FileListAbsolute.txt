@@ -1,0 +1,7 @@
+C:\Users\medva\source\repos\Medvedev\Medvedev\bin\Debug\Medvedev.exe.config
+C:\Users\medva\source\repos\Medvedev\Medvedev\bin\Debug\Medvedev.exe
+C:\Users\medva\source\repos\Medvedev\Medvedev\bin\Debug\Medvedev.pdb
+C:\Users\medva\source\repos\Medvedev\Medvedev\obj\Debug\Medvedev.csprojResolveAssemblyReference.cache
+C:\Users\medva\source\repos\Medvedev\Medvedev\obj\Debug\Medvedev.csproj.CoreCompileInputs.cache
+C:\Users\medva\source\repos\Medvedev\Medvedev\obj\Debug\Medvedev.exe
+C:\Users\medva\source\repos\Medvedev\Medvedev\obj\Debug\Medvedev.pdb

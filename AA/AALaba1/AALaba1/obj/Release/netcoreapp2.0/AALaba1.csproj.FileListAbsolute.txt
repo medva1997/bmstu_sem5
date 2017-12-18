@@ -1,0 +1,10 @@
+/home/alexey/RiderProjects/AALaba1/AALaba1/bin/Release/netcoreapp2.0/AALaba1.deps.json
+/home/alexey/RiderProjects/AALaba1/AALaba1/bin/Release/netcoreapp2.0/AALaba1.runtimeconfig.json
+/home/alexey/RiderProjects/AALaba1/AALaba1/bin/Release/netcoreapp2.0/AALaba1.runtimeconfig.dev.json
+/home/alexey/RiderProjects/AALaba1/AALaba1/bin/Release/netcoreapp2.0/AALaba1.dll
+/home/alexey/RiderProjects/AALaba1/AALaba1/bin/Release/netcoreapp2.0/AALaba1.pdb
+/home/alexey/RiderProjects/AALaba1/AALaba1/obj/Release/netcoreapp2.0/AALaba1.csproj.CoreCompileInputs.cache
+/home/alexey/RiderProjects/AALaba1/AALaba1/obj/Release/netcoreapp2.0/AALaba1.AssemblyInfoInputs.cache
+/home/alexey/RiderProjects/AALaba1/AALaba1/obj/Release/netcoreapp2.0/AALaba1.AssemblyInfo.cs
+/home/alexey/RiderProjects/AALaba1/AALaba1/obj/Release/netcoreapp2.0/AALaba1.dll
+/home/alexey/RiderProjects/AALaba1/AALaba1/obj/Release/netcoreapp2.0/AALaba1.pdb

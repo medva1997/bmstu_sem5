@@ -1,0 +1,21 @@
+<!ELEMENT Meeting (TimeStart, TimeEnd, Location, Manager*, Visitor*)>
+<!ATTLIST Manager Meet_ID #PCDATA>
+<!ELEMENT TimeStart (#PCDATA)>
+<!ELEMENT TimeEnd (#PCDATA)> 
+<!ELEMENT Location (#PCDATA)>
+<!ELEMENT Manager (LastName, FirstName, PhoneNumber,M_Confirmation)>
+<!ATTLIST Manager 
+	M_Confirmation CDATA #REQUIRED
+    MID CDATA #REQUIRED>
+	<!ELEMENT LastName (#PCDATA)>
+	<!ELEMENT FirstName (#PCDATA)>
+	<!ELEMENT PhoneNumber (#PCDATA)>
+	 
+  
+<!ELEMENT Visitor (LastName, FirstName, PhoneNumber,V_Confirmation)> 
+<!ATTLIST Manager 
+	V_Confirmation CDATA #REQUIRED
+    VID CDATA #REQUIRED>
+	<!ELEMENT LastName (#PCDATA)>
+	<!ELEMENT FirstName (#PCDATA)>
+	<!ELEMENT PhoneNumber (#PCDATA)>

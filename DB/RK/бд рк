@@ -1,0 +1,32 @@
+/номера деталей поставляемых поставщиком из смоленска для проектов в смоленске
+
+use test2_bd;
+SELECT fff.Pno
+  FROM
+(
+  SELECT Jno, Pno
+
+  FROM SPJ
+    INNER JOIN S ON S.Sno = SPJ.Sno
+  WHERE S.City = 'Smolensk'
+) as fff
+INNER JOIN J ON J.Jno=fff.Jno
+WHERE  J.City = 'Smolensk';
+
+
+/* получить все пары городов в которых поставщик их первого обеспечивает проект во втором */
+use test2_bd;
+
+SELECT DISTINCT City1, City
+  from
+(
+  SELECT
+    Jno,
+    City AS City1
+  FROM SPJ
+    INNER JOIN S
+      ON s.Sno = spj.Sno
+) AS A
+INNER JOIN  J
+    on j.jno = A.jno
+WHERE  City1<>City;

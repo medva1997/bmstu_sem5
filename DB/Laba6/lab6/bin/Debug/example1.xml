@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE MeetingList[   
+	<!ELEMENT MeetingList (Meeting*,commentCode,para,sampleCode,InstructionCode)>   
+	<!ELEMENT Meeting (TimeStart, TimeEnd, Location, Manager*, Visitor*)>   
+	<!ATTLIST Meeting Meet_ID ID #REQUIRED>   
+	<!ELEMENT TimeStart (#PCDATA)>
+	<!ELEMENT TimeEnd (#PCDATA)> 
+	<!ELEMENT Location (#PCDATA)>
+	<!ELEMENT Manager (MID,LastName, FirstName, PhoneNumber)>
+	
+	
+	<!ELEMENT Visitor (VID,LastName, FirstName, PhoneNumber)> 
+	<!ELEMENT MID (#PCDATA)>
+	<!ELEMENT VID (#PCDATA)>
+	<!ELEMENT LastName (#PCDATA)>
+	<!ELEMENT FirstName (#PCDATA)>
+	<!ELEMENT PhoneNumber (#PCDATA)>
+	
+	<!ELEMENT commentCode (#PCDATA)>
+	<!ELEMENT para (#PCDATA)>
+	
+	<!ATTLIST para 
+		paraID CDATA #REQUIRED
+		paraname CDATA #REQUIRED>
+		
+	<!ELEMENT sampleCode (#PCDATA)>
+	<!ELEMENT InstructionCode (#PCDATA)>
+	]>
+<MeetingList>
+  <Meeting Meet_ID="meet4">
+    <TimeStart>2017-11-02 12:15:00.000</TimeStart>
+    <TimeEnd>2017-11-02 18:00:00.000</TimeEnd>
+    <Location>Room 3</Location>
+    <Manager>
+      <MID>36</MID>
+      <LastName>Плохов</LastName>
+      <FirstName>Артур</FirstName>
+      <PhoneNumber>79261410734</PhoneNumber>
+    </Manager>
+    <Visitor>
+      <VID>170</VID>
+      <LastName>Неуков</LastName>
+      <FirstName>Аркадий</FirstName>
+      <PhoneNumber>79265038243</PhoneNumber>
+    </Visitor>
+  </Meeting>
+  <Meeting Meet_ID="meet5">
+    <TimeStart>2017-11-04 09:15:00.000</TimeStart>
+    <TimeEnd>2017-11-04 15:45:00.000</TimeEnd>
+    <Location>Room 4</Location>
+    <Manager>
+      <MID>57</MID>
+      <LastName>Семенищева</LastName>
+      <FirstName>Ева</FirstName>
+      <PhoneNumber>79263637640</PhoneNumber>
+    </Manager>
+    <Visitor>
+      <VID>721</VID>
+      <LastName>Набережных</LastName>
+      <FirstName>Ульяна</FirstName>
+      <PhoneNumber>79267224575</PhoneNumber>
+    </Visitor>
+  </Meeting>
+  <Meeting Meet_ID="meet6">
+    <TimeStart>2017-12-02 10:15:00.000</TimeStart>
+    <TimeEnd>2017-12-02 14:00:00.000</TimeEnd>
+    <Location>Room 3</Location>
+    <Manager>
+      <MID>37</MID>
+      <LastName>Медведев</LastName>
+      <FirstName>Артур</FirstName>
+      <PhoneNumber>79261410222</PhoneNumber>
+    </Manager>
+    <Visitor>
+      <VID>175</VID>
+      <LastName>Иванов</LastName>
+      <FirstName>Аркадий</FirstName>
+      <PhoneNumber>7926503825</PhoneNumber>
+    </Visitor>
+  </Meeting>
+  <commentCode>
+		<!-- This is a useful comment about the sample document. --> 
+	</commentCode>
+  <para paraID="p17" paraname="text">
+		This is a test of the Emergency Broadcast System. 
+	</para>
+  <sampleCode>
+		<![CDATA[<?xml version="1.0"?>]]> 
+	</sampleCode>
+  <InstructionCode>   
+		<?refreshData targetID="t17"?> 
+	</InstructionCode>
+  <color>red</color>
+</MeetingList>

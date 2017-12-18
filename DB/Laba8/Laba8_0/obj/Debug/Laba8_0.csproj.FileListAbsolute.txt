@@ -1,0 +1,7 @@
+c:\users\medva\source\repos\Laba8_0\Laba8_0\bin\Debug\Laba8_0.exe.config
+c:\users\medva\source\repos\Laba8_0\Laba8_0\bin\Debug\Laba8_0.exe
+c:\users\medva\source\repos\Laba8_0\Laba8_0\bin\Debug\Laba8_0.pdb
+c:\users\medva\source\repos\Laba8_0\Laba8_0\obj\Debug\Laba8_0.csprojResolveAssemblyReference.cache
+c:\users\medva\source\repos\Laba8_0\Laba8_0\obj\Debug\Laba8_0.csproj.CoreCompileInputs.cache
+c:\users\medva\source\repos\Laba8_0\Laba8_0\obj\Debug\Laba8_0.exe
+c:\users\medva\source\repos\Laba8_0\Laba8_0\obj\Debug\Laba8_0.pdb

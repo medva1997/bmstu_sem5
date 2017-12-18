@@ -1,1 +1,0 @@
-# bmstu_sem5

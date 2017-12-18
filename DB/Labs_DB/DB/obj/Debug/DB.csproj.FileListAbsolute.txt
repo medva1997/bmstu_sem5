@@ -1,7 +1,0 @@
-c:\users\medva\source\repos\Labs_DB\DB\obj\Debug\DB.csprojResolveAssemblyReference.cache
-c:\users\medva\source\repos\Labs_DB\DB\obj\Debug\DB.csproj.CoreCompileInputs.cache
-c:\users\medva\source\repos\Labs_DB\DB\bin\Debug\DB.exe.config
-c:\users\medva\source\repos\Labs_DB\DB\bin\Debug\DB.exe
-c:\users\medva\source\repos\Labs_DB\DB\bin\Debug\DB.pdb
-c:\users\medva\source\repos\Labs_DB\DB\obj\Debug\DB.exe
-c:\users\medva\source\repos\Labs_DB\DB\obj\Debug\DB.pdb

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="GAMEModelStoreContainer" CdmEntityContainer="GAMEEntities">
+    <EntitySetMapping Name="Dictionary">
+      <EntityTypeMapping TypeName="GAMEModel.Dictionary">
+        <MappingFragment StoreEntitySet="Dictionary">
+          <ScalarProperty Name="Extra" ColumnName="Extra" />
+          <ScalarProperty Name="Word" ColumnName="Word" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+          <ScalarProperty Name="Approved" ColumnName="Approved" />
+          <ScalarProperty Name="Author" ColumnName="Author" />
+          <ScalarProperty Name="LongWord" ColumnName="LongWord" />
+          <ScalarProperty Name="LongCount" ColumnName="LongCount" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,7 @@
+C:\TFS\Медведев\DataBase\DataLoader\bin\Debug\DataLoader.exe.config
+C:\TFS\Медведев\DataBase\DataLoader\bin\Debug\DataLoader.exe
+C:\TFS\Медведев\DataBase\DataLoader\bin\Debug\DataLoader.pdb
+C:\TFS\Медведев\DataBase\DataLoader\obj\Debug\DataLoader.csprojResolveAssemblyReference.cache
+C:\TFS\Медведев\DataBase\DataLoader\obj\Debug\DataLoader.csproj.CoreCompileInputs.cache
+C:\TFS\Медведев\DataBase\DataLoader\obj\Debug\DataLoader.exe
+C:\TFS\Медведев\DataBase\DataLoader\obj\Debug\DataLoader.pdb

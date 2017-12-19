@@ -1,0 +1,88 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleGame", "SampleGame\SampleGame.csproj", "{443C74ED-3FB6-4838-9D89-A053BFDED66A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Piano", "Piano\Piano.csproj", "{3316921F-8DE9-4B75-BEA4-E13AA8EBAD29}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator", "Calculator\Calculator.csproj", "{FA8746B4-352E-4863-BAD4-B523F9FFA52F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiThread", "MultiThread\MultiThread.csproj", "{7D6FE331-6E24-4F9A-B8B3-7E46FAAB3320}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleThread", "ConsoleThread\ConsoleThread.csproj", "{FEAD6B1F-133C-40B9-8BC5-29CD9D75A094}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MTFullConsole", "MTFullConsole\MTFullConsole.csproj", "{7EB89AC6-B360-4937-8306-9FADF723C0B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestConsole", "TestConsole\TestConsole.csproj", "{F8D84D92-35E5-4EC1-AB84-6831DE0B6320}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{443C74ED-3FB6-4838-9D89-A053BFDED66A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{443C74ED-3FB6-4838-9D89-A053BFDED66A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{443C74ED-3FB6-4838-9D89-A053BFDED66A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{443C74ED-3FB6-4838-9D89-A053BFDED66A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3316921F-8DE9-4B75-BEA4-E13AA8EBAD29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3316921F-8DE9-4B75-BEA4-E13AA8EBAD29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3316921F-8DE9-4B75-BEA4-E13AA8EBAD29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3316921F-8DE9-4B75-BEA4-E13AA8EBAD29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA8746B4-352E-4863-BAD4-B523F9FFA52F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA8746B4-352E-4863-BAD4-B523F9FFA52F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA8746B4-352E-4863-BAD4-B523F9FFA52F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA8746B4-352E-4863-BAD4-B523F9FFA52F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D6FE331-6E24-4F9A-B8B3-7E46FAAB3320}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D6FE331-6E24-4F9A-B8B3-7E46FAAB3320}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D6FE331-6E24-4F9A-B8B3-7E46FAAB3320}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D6FE331-6E24-4F9A-B8B3-7E46FAAB3320}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEAD6B1F-133C-40B9-8BC5-29CD9D75A094}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEAD6B1F-133C-40B9-8BC5-29CD9D75A094}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEAD6B1F-133C-40B9-8BC5-29CD9D75A094}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEAD6B1F-133C-40B9-8BC5-29CD9D75A094}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EB89AC6-B360-4937-8306-9FADF723C0B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EB89AC6-B360-4937-8306-9FADF723C0B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EB89AC6-B360-4937-8306-9FADF723C0B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EB89AC6-B360-4937-8306-9FADF723C0B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8D84D92-35E5-4EC1-AB84-6831DE0B6320}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8D84D92-35E5-4EC1-AB84-6831DE0B6320}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8D84D92-35E5-4EC1-AB84-6831DE0B6320}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8D84D92-35E5-4EC1-AB84-6831DE0B6320}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9EF9318B-0FC9-43F4-BCAE-E3DE7C628079}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 8
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://172.26.28.15:8080/tfs/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = SampleGame\\SampleGame.csproj
+		SccProjectName1 = SampleGame
+		SccLocalPath1 = SampleGame
+		SccProjectUniqueName2 = Piano\\Piano.csproj
+		SccProjectName2 = Piano
+		SccLocalPath2 = Piano
+		SccProjectUniqueName3 = Calculator\\Calculator.csproj
+		SccProjectName3 = Calculator
+		SccLocalPath3 = Calculator
+		SccProjectUniqueName4 = MultiThread\\MultiThread.csproj
+		SccProjectName4 = MultiThread
+		SccLocalPath4 = MultiThread
+		SccProjectUniqueName5 = ConsoleThread\\ConsoleThread.csproj
+		SccProjectName5 = ConsoleThread
+		SccLocalPath5 = ConsoleThread
+		SccProjectUniqueName6 = MTFullConsole\\MTFullConsole.csproj
+		SccProjectName6 = MTFullConsole
+		SccLocalPath6 = MTFullConsole
+		SccProjectUniqueName7 = TestConsole\\TestConsole.csproj
+		SccProjectName7 = TestConsole
+		SccLocalPath7 = TestConsole
+	EndGlobalSection
+EndGlobal

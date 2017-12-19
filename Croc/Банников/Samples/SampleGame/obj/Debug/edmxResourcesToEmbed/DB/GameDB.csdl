@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="GAMEModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Dictionary">
+    <Key>
+      <PropertyRef Name="Word" />
+    </Key>
+    <Property Name="Word" Type="String" MaxLength="127" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Description" Type="String" MaxLength="1023" FixedLength="false" Unicode="false" />
+    <Property Name="Approved" Type="Boolean" />
+    <Property Name="Author" Type="String" MaxLength="127" FixedLength="false" Unicode="false" />
+    <Property Name="LongWord" Type="Int32" Nullable="false" />
+    <Property Name="LongCount" Type="Int32" Nullable="false" />
+    <Property Name="Extra" Type="Double" />
+  </EntityType>
+  <EntityContainer Name="GAMEEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Dictionary" EntityType="Self.Dictionary" />
+  </EntityContainer>
+</Schema>

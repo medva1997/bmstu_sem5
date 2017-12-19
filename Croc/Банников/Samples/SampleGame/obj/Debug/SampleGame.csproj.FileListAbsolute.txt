@@ -1,0 +1,15 @@
+C:\TFS\Банников\Samples\SampleGame\bin\Debug\Dict.xml
+C:\TFS\Банников\Samples\SampleGame\bin\Debug\SampleGame.exe.config
+C:\TFS\Банников\Samples\SampleGame\bin\Debug\SampleGame.exe
+C:\TFS\Банников\Samples\SampleGame\bin\Debug\SampleGame.pdb
+C:\TFS\Банников\Samples\SampleGame\bin\Debug\EntityFramework.dll
+C:\TFS\Банников\Samples\SampleGame\bin\Debug\EntityFramework.SqlServer.dll
+C:\TFS\Банников\Samples\SampleGame\bin\Debug\EntityFramework.xml
+C:\TFS\Банников\Samples\SampleGame\bin\Debug\EntityFramework.SqlServer.xml
+C:\TFS\Банников\Samples\SampleGame\obj\Debug\SampleGame.csprojResolveAssemblyReference.cache
+C:\TFS\Банников\Samples\SampleGame\obj\Debug\SampleGame.MainForm.resources
+C:\TFS\Банников\Samples\SampleGame\obj\Debug\SampleGame.Properties.Resources.resources
+C:\TFS\Банников\Samples\SampleGame\obj\Debug\SampleGame.csproj.GenerateResource.Cache
+C:\TFS\Банников\Samples\SampleGame\obj\Debug\SampleGame.csproj.CoreCompileInputs.cache
+C:\TFS\Банников\Samples\SampleGame\obj\Debug\SampleGame.exe
+C:\TFS\Банников\Samples\SampleGame\obj\Debug\SampleGame.pdb

@@ -1,0 +1,10 @@
+C:\TFS\Банников\Samples\Calculator\bin\Debug\Calculator.exe.config
+C:\TFS\Банников\Samples\Calculator\bin\Debug\Calculator.exe
+C:\TFS\Банников\Samples\Calculator\bin\Debug\Calculator.pdb
+C:\TFS\Банников\Samples\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\TFS\Банников\Samples\Calculator\obj\Debug\Calculator.MainForm.resources
+C:\TFS\Банников\Samples\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\TFS\Банников\Samples\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+C:\TFS\Банников\Samples\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\TFS\Банников\Samples\Calculator\obj\Debug\Calculator.exe
+C:\TFS\Банников\Samples\Calculator\obj\Debug\Calculator.pdb

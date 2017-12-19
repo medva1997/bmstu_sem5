@@ -1,0 +1,70 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpBotService", "CSharpBotService\CSharpBotService.csproj", "{B4C06683-8A5A-4D27-9F38-D72A43EFB596}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoapService", "SoapService\SoapService.csproj", "{887BF18E-4885-4336-BAD5-20F2196A8EF3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WcfConsole", "WcfConsole\WcfConsole.csproj", "{601ED22C-1769-4A2E-BB36-DD418BEB7386}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WcfApp", "WcfApp\WcfApp.csproj", "{C7005EF4-E81C-4E57-9283-7655798476BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITBridgeService", "ITBridgeService\ITBridgeService.csproj", "{DC816BB9-05C9-44D2-A67F-9F1FEA60335C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4C06683-8A5A-4D27-9F38-D72A43EFB596}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4C06683-8A5A-4D27-9F38-D72A43EFB596}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4C06683-8A5A-4D27-9F38-D72A43EFB596}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4C06683-8A5A-4D27-9F38-D72A43EFB596}.Release|Any CPU.Build.0 = Release|Any CPU
+		{887BF18E-4885-4336-BAD5-20F2196A8EF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{887BF18E-4885-4336-BAD5-20F2196A8EF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{887BF18E-4885-4336-BAD5-20F2196A8EF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{887BF18E-4885-4336-BAD5-20F2196A8EF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{601ED22C-1769-4A2E-BB36-DD418BEB7386}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{601ED22C-1769-4A2E-BB36-DD418BEB7386}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{601ED22C-1769-4A2E-BB36-DD418BEB7386}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{601ED22C-1769-4A2E-BB36-DD418BEB7386}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7005EF4-E81C-4E57-9283-7655798476BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7005EF4-E81C-4E57-9283-7655798476BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7005EF4-E81C-4E57-9283-7655798476BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7005EF4-E81C-4E57-9283-7655798476BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC816BB9-05C9-44D2-A67F-9F1FEA60335C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC816BB9-05C9-44D2-A67F-9F1FEA60335C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC816BB9-05C9-44D2-A67F-9F1FEA60335C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC816BB9-05C9-44D2-A67F-9F1FEA60335C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A45AE5A7-DFEE-4901-8262-33865A4C9407}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 6
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://172.26.28.15:8080/tfs/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = CSharpBotService\\CSharpBotService.csproj
+		SccProjectName1 = CSharpBotService
+		SccLocalPath1 = CSharpBotService
+		SccProjectUniqueName2 = SoapService\\SoapService.csproj
+		SccProjectName2 = SoapService
+		SccLocalPath2 = SoapService
+		SccProjectUniqueName3 = WcfConsole\\WcfConsole.csproj
+		SccProjectName3 = WcfConsole
+		SccLocalPath3 = WcfConsole
+		SccProjectUniqueName4 = WcfApp\\WcfApp.csproj
+		SccProjectName4 = WcfApp
+		SccLocalPath4 = WcfApp
+		SccProjectUniqueName5 = ITBridgeService\\ITBridgeService.csproj
+		SccProjectName5 = ITBridgeService
+		SccLocalPath5 = ITBridgeService
+	EndGlobalSection
+EndGlobal

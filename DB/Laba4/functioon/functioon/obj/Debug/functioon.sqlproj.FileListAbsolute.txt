@@ -1,0 +1,9 @@
+D:\bmstu_sem5\DB\Laba4\functioon\functioon\bin\Debug\functioon.dacpac
+D:\bmstu_sem5\DB\Laba4\functioon\functioon\bin\Debug\functioon.dll
+D:\bmstu_sem5\DB\Laba4\functioon\functioon\bin\Debug\functioon.pdb
+D:\bmstu_sem5\DB\Laba4\functioon\functioon\obj\Debug\functioon.dll
+D:\bmstu_sem5\DB\Laba4\functioon\functioon\obj\Debug\functioon.pdb
+D:\bmstu_sem5\DB\Laba4\functioon\functioon\obj\Debug\Model.xml
+D:\bmstu_sem5\DB\Laba4\functioon\functioon\obj\Debug\refactor.xml
+D:\bmstu_sem5\DB\Laba4\functioon\functioon\obj\Debug\postdeploy.sql
+D:\bmstu_sem5\DB\Laba4\functioon\functioon\obj\Debug\predeploy.sql

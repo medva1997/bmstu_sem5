@@ -1,0 +1,9 @@
+D:\bmstu_sem5\DB\Laba4\Aggregate\Aggregate\bin\Debug\Aggregate.dacpac
+D:\bmstu_sem5\DB\Laba4\Aggregate\Aggregate\bin\Debug\Aggregate.dll
+D:\bmstu_sem5\DB\Laba4\Aggregate\Aggregate\bin\Debug\Aggregate.pdb
+D:\bmstu_sem5\DB\Laba4\Aggregate\Aggregate\obj\Debug\Model.xml
+D:\bmstu_sem5\DB\Laba4\Aggregate\Aggregate\obj\Debug\refactor.xml
+D:\bmstu_sem5\DB\Laba4\Aggregate\Aggregate\obj\Debug\postdeploy.sql
+D:\bmstu_sem5\DB\Laba4\Aggregate\Aggregate\obj\Debug\predeploy.sql
+D:\bmstu_sem5\DB\Laba4\Aggregate\Aggregate\obj\Debug\Aggregate.dll
+D:\bmstu_sem5\DB\Laba4\Aggregate\Aggregate\obj\Debug\Aggregate.pdb

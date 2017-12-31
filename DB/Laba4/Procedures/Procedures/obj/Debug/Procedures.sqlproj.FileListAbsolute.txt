@@ -1,0 +1,9 @@
+D:\bmstu_sem5\DB\Laba4\Procedures\Procedures\bin\Debug\Procedures.dacpac
+D:\bmstu_sem5\DB\Laba4\Procedures\Procedures\bin\Debug\Procedures.dll
+D:\bmstu_sem5\DB\Laba4\Procedures\Procedures\bin\Debug\Procedures.pdb
+D:\bmstu_sem5\DB\Laba4\Procedures\Procedures\obj\Debug\Model.xml
+D:\bmstu_sem5\DB\Laba4\Procedures\Procedures\obj\Debug\refactor.xml
+D:\bmstu_sem5\DB\Laba4\Procedures\Procedures\obj\Debug\postdeploy.sql
+D:\bmstu_sem5\DB\Laba4\Procedures\Procedures\obj\Debug\predeploy.sql
+D:\bmstu_sem5\DB\Laba4\Procedures\Procedures\obj\Debug\Procedures.dll
+D:\bmstu_sem5\DB\Laba4\Procedures\Procedures\obj\Debug\Procedures.pdb

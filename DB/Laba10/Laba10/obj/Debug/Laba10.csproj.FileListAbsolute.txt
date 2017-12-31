@@ -1,0 +1,10 @@
+C:\Users\medva\source\repos\Laba10\Laba10\bin\Debug\Laba10.exe.config
+C:\Users\medva\source\repos\Laba10\Laba10\bin\Debug\Laba10.exe
+C:\Users\medva\source\repos\Laba10\Laba10\bin\Debug\Laba10.pdb
+C:\Users\medva\source\repos\Laba10\Laba10\obj\Debug\Laba10.csprojResolveAssemblyReference.cache
+C:\Users\medva\source\repos\Laba10\Laba10\obj\Debug\Laba10.Form1.resources
+C:\Users\medva\source\repos\Laba10\Laba10\obj\Debug\Laba10.Properties.Resources.resources
+C:\Users\medva\source\repos\Laba10\Laba10\obj\Debug\Laba10.csproj.GenerateResource.Cache
+C:\Users\medva\source\repos\Laba10\Laba10\obj\Debug\Laba10.csproj.CoreCompileInputs.cache
+C:\Users\medva\source\repos\Laba10\Laba10\obj\Debug\Laba10.exe
+C:\Users\medva\source\repos\Laba10\Laba10\obj\Debug\Laba10.pdb

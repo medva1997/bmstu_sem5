@@ -1,0 +1,6 @@
+D:\bmstu_sem5\DB\Laba4\HandWrittenUDF\HandWrittenUDF\bin\Debug\HandWrittenUDF.dll
+D:\bmstu_sem5\DB\Laba4\HandWrittenUDF\HandWrittenUDF\bin\Debug\HandWrittenUDF.pdb
+D:\bmstu_sem5\DB\Laba4\HandWrittenUDF\HandWrittenUDF\obj\Debug\HandWrittenUDF.csprojResolveAssemblyReference.cache
+D:\bmstu_sem5\DB\Laba4\HandWrittenUDF\HandWrittenUDF\obj\Debug\HandWrittenUDF.csproj.CoreCompileInputs.cache
+D:\bmstu_sem5\DB\Laba4\HandWrittenUDF\HandWrittenUDF\obj\Debug\HandWrittenUDF.dll
+D:\bmstu_sem5\DB\Laba4\HandWrittenUDF\HandWrittenUDF\obj\Debug\HandWrittenUDF.pdb

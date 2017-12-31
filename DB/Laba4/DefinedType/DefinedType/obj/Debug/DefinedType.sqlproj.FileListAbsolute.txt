@@ -1,0 +1,5 @@
+D:\bmstu_sem5\DB\Laba4\DefinedType\DefinedType\bin\Debug\DefinedType.dacpac
+D:\bmstu_sem5\DB\Laba4\DefinedType\DefinedType\bin\Debug\DefinedType.dll
+D:\bmstu_sem5\DB\Laba4\DefinedType\DefinedType\bin\Debug\DefinedType.pdb
+D:\bmstu_sem5\DB\Laba4\DefinedType\DefinedType\obj\Debug\DefinedType.dll
+D:\bmstu_sem5\DB\Laba4\DefinedType\DefinedType\obj\Debug\DefinedType.pdb

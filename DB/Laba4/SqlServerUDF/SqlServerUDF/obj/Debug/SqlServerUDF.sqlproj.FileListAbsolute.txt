@@ -1,0 +1,9 @@
+D:\bmstu_sem5\DB\Laba4\SqlServerUDF\SqlServerUDF\bin\Debug\SqlServerUDF.dacpac
+D:\bmstu_sem5\DB\Laba4\SqlServerUDF\SqlServerUDF\bin\Debug\SqlServerUDF.dll
+D:\bmstu_sem5\DB\Laba4\SqlServerUDF\SqlServerUDF\bin\Debug\SqlServerUDF.pdb
+D:\bmstu_sem5\DB\Laba4\SqlServerUDF\SqlServerUDF\obj\Debug\SqlServerUDF.dll
+D:\bmstu_sem5\DB\Laba4\SqlServerUDF\SqlServerUDF\obj\Debug\SqlServerUDF.pdb
+D:\bmstu_sem5\DB\Laba4\SqlServerUDF\SqlServerUDF\obj\Debug\Model.xml
+D:\bmstu_sem5\DB\Laba4\SqlServerUDF\SqlServerUDF\obj\Debug\refactor.xml
+D:\bmstu_sem5\DB\Laba4\SqlServerUDF\SqlServerUDF\obj\Debug\postdeploy.sql
+D:\bmstu_sem5\DB\Laba4\SqlServerUDF\SqlServerUDF\obj\Debug\predeploy.sql

@@ -1,0 +1,13 @@
+C:\Users\Useer\Desktop\study\sem5\algorithms\lab6\norm_konveer\norm_konveer\bin\Debug\norm_konveer.exe.config
+C:\Users\Useer\Desktop\study\sem5\algorithms\lab6\norm_konveer\norm_konveer\bin\Debug\norm_konveer.exe
+C:\Users\Useer\Desktop\study\sem5\algorithms\lab6\norm_konveer\norm_konveer\bin\Debug\norm_konveer.pdb
+C:\Users\Useer\Desktop\study\sem5\algorithms\lab6\norm_konveer\norm_konveer\obj\Debug\norm_konveer.csprojResolveAssemblyReference.cache
+C:\Users\Useer\Desktop\study\sem5\algorithms\lab6\norm_konveer\norm_konveer\obj\Debug\norm_konveer.exe
+C:\Users\Useer\Desktop\study\sem5\algorithms\lab6\norm_konveer\norm_konveer\obj\Debug\norm_konveer.pdb
+Z:\AlgAnalysis\Badalyan\lab6\norm_konveer\norm_konveer\bin\Debug\norm_konveer.exe.config
+Z:\AlgAnalysis\Badalyan\lab6\norm_konveer\norm_konveer\bin\Debug\norm_konveer.exe
+Z:\AlgAnalysis\Badalyan\lab6\norm_konveer\norm_konveer\bin\Debug\norm_konveer.pdb
+Z:\AlgAnalysis\Badalyan\lab6\norm_konveer\norm_konveer\obj\Debug\norm_konveer.csprojResolveAssemblyReference.cache
+Z:\AlgAnalysis\Badalyan\lab6\norm_konveer\norm_konveer\obj\Debug\norm_konveer.csproj.CoreCompileInputs.cache
+Z:\AlgAnalysis\Badalyan\lab6\norm_konveer\norm_konveer\obj\Debug\norm_konveer.exe
+Z:\AlgAnalysis\Badalyan\lab6\norm_konveer\norm_konveer\obj\Debug\norm_konveer.pdb

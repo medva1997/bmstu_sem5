@@ -1,0 +1,10 @@
+/home/local/NAS/almedvedev/RiderProjects/AlgAnalysis/Laba3/bin/Debug/netcoreapp2.0/Laba3.deps.json
+/home/local/NAS/almedvedev/RiderProjects/AlgAnalysis/Laba3/bin/Debug/netcoreapp2.0/Laba3.runtimeconfig.json
+/home/local/NAS/almedvedev/RiderProjects/AlgAnalysis/Laba3/bin/Debug/netcoreapp2.0/Laba3.runtimeconfig.dev.json
+/home/local/NAS/almedvedev/RiderProjects/AlgAnalysis/Laba3/bin/Debug/netcoreapp2.0/Laba3.dll
+/home/local/NAS/almedvedev/RiderProjects/AlgAnalysis/Laba3/bin/Debug/netcoreapp2.0/Laba3.pdb
+/home/local/NAS/almedvedev/RiderProjects/AlgAnalysis/Laba3/obj/Debug/netcoreapp2.0/Laba3.csproj.CoreCompileInputs.cache
+/home/local/NAS/almedvedev/RiderProjects/AlgAnalysis/Laba3/obj/Debug/netcoreapp2.0/Laba3.AssemblyInfoInputs.cache
+/home/local/NAS/almedvedev/RiderProjects/AlgAnalysis/Laba3/obj/Debug/netcoreapp2.0/Laba3.AssemblyInfo.cs
+/home/local/NAS/almedvedev/RiderProjects/AlgAnalysis/Laba3/obj/Debug/netcoreapp2.0/Laba3.dll
+/home/local/NAS/almedvedev/RiderProjects/AlgAnalysis/Laba3/obj/Debug/netcoreapp2.0/Laba3.pdb

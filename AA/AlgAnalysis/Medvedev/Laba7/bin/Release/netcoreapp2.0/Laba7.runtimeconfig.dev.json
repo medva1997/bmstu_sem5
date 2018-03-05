@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/local/NAS/almedvedev/.dotnet/store/|arch|/|tfm|",
+      "/home/local/NAS/almedvedev/.nuget/packages",
+      "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+    ]
+  }
+}

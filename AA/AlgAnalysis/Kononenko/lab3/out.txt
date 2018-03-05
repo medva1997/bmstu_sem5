@@ -1,0 +1,103 @@
+*****************Начало экперимента*****************
+Size = 100, Time(ticks / 1e3):
+                   Bubble best    : 49
+                   Bubble random  : 131
+                   Bubble worst   : 172
+-----------------------
+                   Select best    : 85
+-----------------------
+                   Qsort best     : 78
+                   Qsort worst    : 90
+----------------------------------------
+Size = 200, Time(ticks / 1e3):
+                   Bubble best    : 174
+                   Bubble random  : 469
+                   Bubble worst   : 659
+-----------------------
+                   Select best    : 286
+-----------------------
+                   Qsort best     : 132
+                   Qsort worst    : 215
+----------------------------------------
+Size = 300, Time(ticks / 1e3):
+                   Bubble best    : 333
+                   Bubble random  : 924
+                   Bubble worst   : 1375
+-----------------------
+                   Select best    : 524
+-----------------------
+                   Qsort best     : 170
+                   Qsort worst    : 343
+----------------------------------------
+Size = 400, Time(ticks / 1e3):
+                   Bubble best    : 570
+                   Bubble random  : 1603
+                   Bubble worst   : 2390
+-----------------------
+                   Select best    : 893
+-----------------------
+                   Qsort best     : 227
+                   Qsort worst    : 520
+----------------------------------------
+Size = 500, Time(ticks / 1e3):
+                   Bubble best    : 1109
+                   Bubble random  : 2871
+                   Bubble worst   : 4222
+-----------------------
+                   Select best    : 1617
+-----------------------
+                   Qsort best     : 351
+                   Qsort worst    : 838
+----------------------------------------
+Size = 600, Time(ticks / 1e3):
+                   Bubble best    : 1483
+                   Bubble random  : 4216
+                   Bubble worst   : 5904
+-----------------------
+                   Select best    : 2312
+-----------------------
+                   Qsort best     : 418
+                   Qsort worst    : 1058
+----------------------------------------
+Size = 700, Time(ticks / 1e3):
+                   Bubble best    : 2411
+                   Bubble random  : 6077
+                   Bubble worst   : 8882
+-----------------------
+                   Select best    : 3277
+-----------------------
+                   Qsort best     : 600
+                   Qsort worst    : 1518
+----------------------------------------
+Size = 800, Time(ticks / 1e3):
+                   Bubble best    : 2683
+                   Bubble random  : 7188
+                   Bubble worst   : 10688
+-----------------------
+                   Select best    : 3907
+-----------------------
+                   Qsort best     : 553
+                   Qsort worst    : 1544
+----------------------------------------
+Size = 900, Time(ticks / 1e3):
+                   Bubble best    : 3457
+                   Bubble random  : 9173
+                   Bubble worst   : 13468
+-----------------------
+                   Select best    : 4811
+-----------------------
+                   Qsort best     : 641
+                   Qsort worst    : 1774
+----------------------------------------
+Size = 1000, Time(ticks / 1e3):
+                   Bubble best    : 4225
+                   Bubble random  : 11301
+                   Bubble worst   : 16635
+-----------------------
+                   Select best    : 6011
+-----------------------
+                   Qsort best     : 679
+                   Qsort worst    : 2039
+----------------------------------------
+*****************Конец эксперимента*****************
+

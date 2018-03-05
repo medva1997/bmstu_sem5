@@ -1,0 +1,125 @@
+*****************Начало экперимента*****************
+Size = 100X100, Time(ticks * 1e-6):
+                   Std alg      : 23
+                   Vinograd     : 18
+                   Vinograd opt : 17
+----------------------------------------
+Size = 101X101, Time(ticks * 1e-6):
+                   Std alg      : 17
+                   Vinograd     : 13
+                   Vinograd opt : 13
+----------------------------------------
+Size = 200X200, Time(ticks * 1e-6):
+                   Std alg      : 169
+                   Vinograd     : 129
+                   Vinograd opt : 119
+----------------------------------------
+Size = 201X201, Time(ticks * 1e-6):
+                   Std alg      : 178
+                   Vinograd     : 140
+                   Vinograd opt : 129
+----------------------------------------
+Size = 300X300, Time(ticks * 1e-6):
+                   Std alg      : 627
+                   Vinograd     : 505
+                   Vinograd opt : 464
+----------------------------------------
+Size = 301X301, Time(ticks * 1e-6):
+                   Std alg      : 628
+                   Vinograd     : 492
+                   Vinograd opt : 472
+----------------------------------------
+Size = 400X400, Time(ticks * 1e-6):
+                   Std alg      : 1572
+                   Vinograd     : 1212
+                   Vinograd opt : 1130
+----------------------------------------
+Size = 401X401, Time(ticks * 1e-6):
+                   Std alg      : 1653
+                   Vinograd     : 1339
+                   Vinograd opt : 1230
+----------------------------------------
+Size = 500X500, Time(ticks * 1e-6):
+                   Std alg      : 3578
+                   Vinograd     : 2961
+                   Vinograd opt : 2656
+----------------------------------------
+Size = 501X501, Time(ticks * 1e-6):
+                   Std alg      : 3680
+                   Vinograd     : 3090
+                   Vinograd opt : 2798
+----------------------------------------
+Size = 600X600, Time(ticks * 1e-6):
+                   Std alg      : 6646
+                   Vinograd     : 5488
+                   Vinograd opt : 4916
+----------------------------------------
+Size = 601X601, Time(ticks * 1e-6):
+                   Std alg      : 6697
+                   Vinograd     : 5404
+                   Vinograd opt : 5095
+----------------------------------------
+Size = 700X700, Time(ticks * 1e-6):
+                   Std alg      : 12635
+                   Vinograd     : 10716
+                   Vinograd opt : 9738
+----------------------------------------
+Size = 701X701, Time(ticks * 1e-6):
+                   Std alg      : 13075
+                   Vinograd     : 11170
+                   Vinograd opt : 10488
+----------------------------------------
+Size = 800X800, Time(ticks * 1e-6):
+                   Std alg      : 16761
+                   Vinograd     : 14304
+                   Vinograd opt : 13340
+----------------------------------------
+Size = 801X801, Time(ticks * 1e-6):
+                   Std alg      : 20262
+                   Vinograd     : 17914
+                   Vinograd opt : 17024
+----------------------------------------
+Size = 900X900, Time(ticks * 1e-6):
+                   Std alg      : 24514
+                   Vinograd     : 22435
+                   Vinograd opt : 21207
+----------------------------------------
+Size = 901X901, Time(ticks * 1e-6):
+                   Std alg      : 30879
+                   Vinograd     : 28028
+                   Vinograd opt : 26571
+----------------------------------------
+Size = 1000X1000, Time(ticks * 1e-6):
+                   Std alg      : 36198
+                   Vinograd     : 33777
+                   Vinograd opt : 31670
+----------------------------------------
+Size = 1001X1001, Time(ticks * 1e-6):
+                   Std alg      : 42358
+                   Vinograd     : 38447
+                   Vinograd opt : 36448
+----------------------------------------
+*****************Конец экперимента*****************
+*****************Начало экперимента*****************
+*****************Начало экперимента*****************
+Size = 100X100, Time(ticks * 1e-6):
+                   Std alg      : 23
+                   Vinograd     : 18
+                   Vinograd opt : 16
+----------------------------------------
+Size = 101X101, Time(ticks * 1e-6):
+                   Std alg      : 21
+                   Vinograd     : 16
+                   Vinograd opt : 15
+----------------------------------------
+*****************Начало экперимента*****************
+Size = 100X100, Time(ticks / 1e-6):
+                   Std alg      : 23
+                   Vinograd     : 17
+                   Vinograd opt : 16
+----------------------------------------
+Size = 101X101, Time(ticks / 1e-6):
+                   Std alg      : 23
+                   Vinograd     : 17
+                   Vinograd opt : 17
+----------------------------------------

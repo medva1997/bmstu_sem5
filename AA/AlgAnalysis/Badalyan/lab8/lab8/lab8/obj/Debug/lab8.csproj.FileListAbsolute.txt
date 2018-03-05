@@ -1,0 +1,6 @@
+C:\Users\Useer\Desktop\study\sem5\algorithms\lab8\lab8\lab8\bin\Debug\lab8.exe.config
+C:\Users\Useer\Desktop\study\sem5\algorithms\lab8\lab8\lab8\obj\Debug\lab8.csprojResolveAssemblyReference.cache
+C:\Users\Useer\Desktop\study\sem5\algorithms\lab8\lab8\lab8\bin\Debug\lab8.exe
+C:\Users\Useer\Desktop\study\sem5\algorithms\lab8\lab8\lab8\bin\Debug\lab8.pdb
+C:\Users\Useer\Desktop\study\sem5\algorithms\lab8\lab8\lab8\obj\Debug\lab8.exe
+C:\Users\Useer\Desktop\study\sem5\algorithms\lab8\lab8\lab8\obj\Debug\lab8.pdb
